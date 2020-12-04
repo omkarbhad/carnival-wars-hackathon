@@ -1,5 +1,5 @@
 # Carnival Wars Dataset
-###### HackerEarth Machine Learning Hackathon
+###### [HackerEarth Machine Learning Hackathon](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/)
 
 # Contents
 ```
