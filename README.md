@@ -20,6 +20,8 @@ Predict price via a clean UI using dropdowns and numeric inputs.
 
 Upload a `.csv` and get results in tabular format with download support.
 
+![Batch Prediction](https://github.com/omkarbhad/carnival-wars-hackathon/raw/main/batchprocessing.gif)
+
 ---
 
 ## 🏆 Competition Performance
