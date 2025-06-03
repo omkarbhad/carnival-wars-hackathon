@@ -14,21 +14,19 @@
 
 Predict price via a clean UI using dropdowns and numeric inputs.
 
-![Single Prediction](./singleprocessing.gif)
+![Single Prediction](https://github.com/omkarbhad/carnival-wars-hackathon/raw/main/singleprocessing.gif)
 
 ### 🔸 Batch Prediction
 
 Upload a `.csv` and get results in tabular format with download support.
 
-![Batch Prediction](./batchprocessing.gif)
+![Batch Prediction](https://github.com/omkarbhad/carnival-wars-hackathon/raw/main/batchprocessing.gif)
 
 ---
 
 ## 🏆 Competition Performance
 
 This solution secured a **Top 60 rank** in the [HackerEarth Carnival Wars ML Challenge](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/), a global challenge focused on price prediction for carnival products.
-
-![Leaderboard](./leaderboard.jpg)
 
 * 🏆 **Final Rank**: 60
 * 📊 **Score**: 91.49646
