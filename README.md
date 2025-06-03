@@ -148,23 +148,35 @@ MODELS = {
 
 ## 🚀 Getting Started
 
-```bash
-git clone https://github.com/omkarbhad/Carnival-Wars-Hackathon.git
-cd Carnival-Wars-Hackathon
-pip install -r requirements.txt
-```
+1. **Clone the repository and install dependencies**:
+   ```bash
+   git clone https://github.com/omkarbhad/Carnival-Wars-Hackathon.git
+   cd Carnival-Wars-Hackathon
+   pip install -r requirements.txt
+   ```
 
-To train model:
+2. **Set up the resources** (if needed):
+   
+   If you have `resources.zip` in your project root, unzip it:
+   ```bash
+   # On Linux/Mac
+   unzip resources.zip -d .
+   
+   # On Windows
+   # Expand-Archive -Path resources.zip -DestinationPath .
+   ```
 
-```bash
-python model_training.py
-```
+3. **Train the model**:
+   ```bash
+   python model_training.py
+   ```
+   This will generate necessary model files in the `resources` directory.
 
-To launch demo:
-
-```bash
-streamlit run app.py
-```
+4. **Run the web demo**:
+   ```bash
+   streamlit run app.py
+   ```
+   The app will be available at `http://localhost:8501`
 
 ## 🤝 Contributing
 
